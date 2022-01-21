@@ -5,7 +5,8 @@
 
 #include "vec3.h"
 
-class ray {
+class ray 
+{
 	public: 
 		ray() {}
 		ray(const point3& origin, const vec3& direction)
@@ -15,7 +16,8 @@ class ray {
 		point3 origin() const { return m_orig; }
 		point3 direction() const { return m_dir; }
 
-		point3 at(double t) const {
+		point3 at(double t) const 
+		{
 			return m_orig + t * m_dir;
 		}
 

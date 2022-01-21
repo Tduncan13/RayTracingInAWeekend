@@ -5,9 +5,11 @@
 
 #include "rtweekend.h"
 
-class camera {
+class camera 
+{
 	public: 
-		camera(){
+		camera()
+		{
 			auto aspect_ratio = 16.0 / 9.0;	
 			auto viewport_height = 2.0;
 			auto viewport_width = aspect_ratio * viewport_height;
@@ -19,7 +21,8 @@ class camera {
 			m_lower_left_corner = m_origin - m_horizontal / 2 - m_vertical / 2 - vec3(0.0, 0.0, focal_length);
 		}
 
-		ray get_ray(double u, double v) const {
+		ray get_ray(double u, double v) const 
+		{
 			return ray(m_origin, m_lower_left_corner + u * m_horizontal + v * m_vertical - m_origin);
 		}
 
