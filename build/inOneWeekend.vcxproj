@@ -333,6 +333,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\external\stb_image.h" />
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\camera.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\color.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable_list.h" />

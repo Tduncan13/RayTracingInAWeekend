@@ -9,6 +9,9 @@
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\external\stb_image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\color.h">
       <Filter>Header Files</Filter>
     </ClInclude>

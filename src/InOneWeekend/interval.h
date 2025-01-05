@@ -10,15 +10,15 @@ class interval {
     interval(double min, double max) : min(min), max(max) {}
 
     double size() const {
-        return max - min;
+      return max - min;
     }
 
     bool contains(double x) const {
-        return min <= x && x <= max;
+      return min <= x && x <= max;
     }
 
     bool surrounds(double x) const {
-        return min < x && x < max;
+      return min < x && x < max;
     }
 
     static const interval empty, universe;
