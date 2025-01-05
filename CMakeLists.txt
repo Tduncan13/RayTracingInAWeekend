@@ -22,6 +22,7 @@ set ( EXTERNAL
 set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/color.h
   src/InOneWeekend/main.cc
+  src/InOneWeekend/ray.h
   src/InOneWeekend/vec3.h
 )
 
