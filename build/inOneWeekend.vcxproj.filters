@@ -12,7 +12,19 @@
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\color.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\sphere.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\vec3.h">
