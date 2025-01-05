@@ -1,0 +1,10 @@
+^C:\USERS\CHICO\FUN\RAYTRACING\RAYTRACINGINAWEEKEND\BUILD\CMAKEFILES\EC0D1FB7DE6F1C8B5D3F2E3BB4A5365D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/chico/fun/RayTracing/RayTracingInAWeekend -BC:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build/RTWeekend.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\external\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{60CDB24A-3177-34FF-834E-09C7A01B9B57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C48730C-CB39-3065-92C2-C4A1C8CEBFEB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
