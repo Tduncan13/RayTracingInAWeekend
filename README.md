@@ -9,7 +9,7 @@
 
 - run the command 
 				
-				cmake . && make && ./raytrace > image.ppm
+		cmake --build build --config Debug && build/Debug/inOneWeekend.exe > image.ppm 
 
 - use the following website to display the image. (If you do not have a ppm viewer installed.)
 	https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
