@@ -9,6 +9,12 @@
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\external\stb_image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\CMakeLists.txt" />
