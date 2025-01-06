@@ -337,7 +337,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\color.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable_list.h" />
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\interval.h" />
     <ClCompile Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\main.cc" />
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\material.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\ray.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\rtweekend.h" />
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\sphere.h" />

@@ -21,6 +21,12 @@
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\hittable_list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\InOneWeekend\ray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
