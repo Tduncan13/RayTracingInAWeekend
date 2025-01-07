@@ -1,3 +1,4 @@
 C:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build/CMakeFiles/inOneWeekend.dir
+C:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build/CMakeFiles/theNextWeek.dir
 C:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/chico/fun/RayTracing/RayTracingInAWeekend/build/CMakeFiles/ZERO_CHECK.dir

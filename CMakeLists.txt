@@ -33,6 +33,20 @@ set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/vec3.h
 )
 
+set ( SOURCE_NEXT_WEEK
+  src/TheNextWeek/camera.h
+  src/TheNextWeek/color.h
+  src/TheNextWeek/hittable.h
+  src/TheNextWeek/hittable_list.h
+  src/TheNextWeek/interval.h
+  src/TheNextWeek/main.cc
+  src/TheNextWeek/material.h
+  src/TheNextWeek/ray.h
+  src/TheNextWeek/rtweekend.h
+  src/TheNextWeek/sphere.h
+  src/TheNextWeek/vec3.h
+)
+
 include_directories(src)
 
 # Specific compiler flags below. We're not going to add options for all possible compilers, but if
@@ -64,3 +78,4 @@ endif()
 
 # Executables
 add_executable(inOneWeekend      ${EXTERNAL} ${SOURCE_ONE_WEEKEND})
+add_executable(theNextWeek      ${EXTERNAL} ${SOURCE_NEXT_WEEK})

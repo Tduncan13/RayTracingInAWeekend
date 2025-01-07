@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\external\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\src\TheNextWeek\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chico\fun\RayTracing\RayTracingInAWeekend\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{60CDB24A-3177-34FF-834E-09C7A01B9B57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C48730C-CB39-3065-92C2-C4A1C8CEBFEB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
