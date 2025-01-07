@@ -1,4 +1,5 @@
 # Raytracing in a Weekend.
+From: [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 ### Dependencies:
 
